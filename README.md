@@ -20,5 +20,9 @@ The password manager web application is an app that will store a registered user
 
 # Use-Case
 
-# Use-Case Diagrams
+
+# Use-Case Diagram
+
+![DiagramUseCaseUML](https://github.com/user-attachments/assets/1f574760-417c-422f-8a88-da4f88c7b8ce)
+
 
