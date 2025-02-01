@@ -20,6 +20,15 @@ The password manager web application is an app that will store a registered user
 
 # Use-Case
 
+## Use-Case #1 - Register New User
+|             |
+|-------------|----------------
+| Description | Registering New Account for Password Manager Web App
+| App System  | Registering New User Process
+| Actor(s)    | New Customer
+| Pre-existing Condition(s) | <ul><li>User has not registered an account for the app</li><li>User has the welcome page of the web app open on a browser</li></ul>
+| Scenario    | <ol type="1"><li>New Customer clicks the “Register Account” button on welcome page</li><li>New Customer is redirected to the register account page</li><li>New Customer enters a valid username in the “Username” input text box</li><li>New Customer enters a strong password in the “Password” input text box</li><li>New Customer re-enters their password in the “Re-Enter Password” input text box</li><li>New Customer enters their master pin in the “Master PIN” input text box</li><li>New Customer clicks the “Register” button</li></ol>
+| Exprected Results | New Customer successfully created a new account for the Password Manager Web App and will be redirected to the login page.
 
 # Use-Case Diagram
 
