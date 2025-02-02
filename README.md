@@ -28,12 +28,12 @@ The password manager web application is an app that will store a registered user
 
 ## Use-Case #1 - Register New User
 Description:  Registering New Account for Password Manager Web App
-App System:  Registering New User Process
-Actor(s):  New Customer
-Pre-existing Condition(s):
+<br /> App System:  Registering New User Process
+<br /> Actor(s):  New Customer
+<br /> Pre-existing Condition(s):
 * User has not registered an account for the app
 * User has the welcome page of the web app open on a browser
-Scenario:
+<br /> Scenario:
 1.	New Customer clicks the “Register Account” button on welcome page
 2.	New Customer is redirected to the register account page
 3.	New Customer enters a valid username in the “Username” input text box
@@ -46,12 +46,12 @@ Expected Result:  New Customer successfully created a new account for the Passwo
 
 ## Use-Case #2 - Logging Into Web App
 Description:  Logging into their account for the Password Manager Web App
-App System:  Logging registered user into web app process
-Actor(s):  Registered User
-Pre-existing Condition(s):
+<br /> App System:  Logging registered user into web app process
+<br /> Actor(s):  Registered User
+<br /> Pre-existing Condition(s):
 * User has already registered an account for the web app
 * User has the welcome page of the web app open on a browser
-Scenario:
+<br /> Scenario:
 1.	User clicks the “Log In” button at the top of the welcome page
 2.	User is redirected to the login page
 3.	User enters their correct username into the “Username” input text box
@@ -62,12 +62,12 @@ Expected Result:  User has been authenticated and authorized by the app and will
 
 ## Use-Case #3 - Adding New Password
 Description:  Adding a new password to the list
-App System:  Add new password process
-Actor(s):  Logged in User
-Pre-existing Condition(s):
+<br /> App System:  Add new password process
+<br /> Actor(s):  Logged in User
+<br /> Pre-existing Condition(s):
 *	User is logged in to the web app on a browser
 *	User has their main page with their password list displayed
-Scenario:
+<br /> Scenario:
 1.	User clicks the “Add Password” button on the page
 2.	User is redirected to the add password page
 3.	User enters the correct name of the website into the “Site name/URL” input text box
@@ -79,13 +79,13 @@ Expected Result:  User has successfully added a password to their list and will 
 
 ## Use-Case #4 - Viewing Locked Password
 Description:  Viewing a password on the list
-App System:  View password using Master PIN process
-Actor(s):  Logged in User
-Pre-existing Condition(s):
+<br /> App System:  View password using Master PIN process
+<br /> Actor(s):  Logged in User
+<br /> Pre-existing Condition(s):
 *	User is logged in to the web app on a browser
 *	User has their main page with their password list displayed
 *	User already has a few passwords in their list
-Scenario:
+<br /> Scenario:
 1.	User clicks the “View/Edit” button for their YouTube password
 2.	User is redirected to the View/Edit page of their YouTube account
 3.	User clicks the “Reveal Password” button
@@ -97,13 +97,13 @@ Expected Result:  User has successfully unlocked and revealed their encrypted pa
 
 ## Use-Case #5 - Deleting Password
 Description:  Deleting a password on the list
-App System:  Delete a single password process 
-Actor(s):  Logged in User
-Pre-existing Condition(s):
+<br /> App System:  Delete a single password process 
+<br /> Actor(s):  Logged in User
+<br /> Pre-existing Condition(s):
 *	User is logged in to the web app on a browser
 *	User has their main page with their password list displayed
 *	User already has a few passwords in their list
-Scenario:
+<br /> Scenario:
 1.	User clicks the “Delete” button for their Spotify account
 2.	User is shown a pop-up box with the text “Are you sure you want to delete this?”
 3.	User is presented with two buttons along with the pop-up “Yes” and “No”
@@ -113,13 +113,13 @@ Expected Result:  User has successfully deleted a password from the list and wil
 
 ## Use-Case #6 - Updating Password
 Description:  Updating a password on the list
-App System:  Update Password Process
-Actor(s):  Logged in User
-Pre-existing Condition(s):
+<br /> App System:  Update Password Process
+<br /> Actor(s):  Logged in User
+<br /> Pre-existing Condition(s):
 *	User is logged in to the web app on a browser
 *	User has their main page with their password list displayed
 *	User already has a few passwords in their list
-Scenario:
+<br /> Scenario:
 1.	User clicks the “View/Edit” button for their Gmail account
 2.	User is redirected to the View/Edit page for their Gmail account
 3.	User clicks the “Edit Info” button
