@@ -167,4 +167,14 @@ User has successfully updated their password and will be redirected to the main 
 
 ![DiagramUseCaseUML](https://github.com/user-attachments/assets/1f574760-417c-422f-8a88-da4f88c7b8ce)
 
+# Project Requirements Table
+
+| ID | Requirements    | 
+| :---: | :--------: | 
+| 1 | The software shall display a list of passwords to the registered user’s main page by obtaining the information from the database |
+| 2 | The add password functionality shall allow the user to add more passwords to their password list |
+| 3 | The update/edit password functionality shall allow the user to edit and change a password from their password list |
+| 4 | The delete password functionality shall allow the user to delete a password from their password list |
+| 5 | If the user’s login/registration credentials are incorrect and/or invalid, the software shall display a message to the user their input is invalid and redirect them back to the register or login page |
+
 
