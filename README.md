@@ -171,7 +171,7 @@ User has successfully updated their password and will be redirected to the main 
 
 | ID | Requirements    | 
 | :---: | :--------: | 
-| 1 | The software shall display a list of passwords to the registered user’s main page by obtaining the information from the database |
+| 1 | The software shall display a list of passwords to the registered user’s main page |
 | 2 | The add password functionality shall allow the user to add more passwords to their password list |
 | 3 | The update/edit password functionality shall allow the user to edit and change a password from their password list |
 | 4 | The delete password functionality shall allow the user to delete a password from their password list |
