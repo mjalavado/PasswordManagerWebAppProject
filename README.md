@@ -181,4 +181,9 @@ User has successfully updated their password and will be redirected to the main 
 
 ![ERD](https://github.com/user-attachments/assets/1e8e2432-29eb-4288-ad91-06a3dbe13012)
 
+# UML Class Diagram
+
+![UMLClassDiagram](https://github.com/user-attachments/assets/4027b771-1626-41d6-a7ea-74a18b3625fd)
+
+
 
