@@ -177,4 +177,8 @@ User has successfully updated their password and will be redirected to the main 
 | 4 | The delete password functionality shall allow the user to delete a password from their password list |
 | 5 | If the user’s login/registration credentials are incorrect and/or invalid, the software shall display a message to the user their input is invalid and redirect them back to the register or login page |
 
+# Entity Relationship Diagram
+
+![ERD](https://github.com/user-attachments/assets/1e8e2432-29eb-4288-ad91-06a3dbe13012)
+
 
