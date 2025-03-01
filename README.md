@@ -179,7 +179,7 @@ User has successfully updated their password and will be redirected to the main 
 
 # Entity Relationship Diagram
 
-![ERD](https://github.com/user-attachments/assets/1e8e2432-29eb-4288-ad91-06a3dbe13012)
+![ERD](https://github.com/user-attachments/assets/bc53d24c-e081-4151-8018-bc0dd52a2930)
 
 # UML Class Diagram
 
