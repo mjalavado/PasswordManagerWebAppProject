@@ -1,3 +1,16 @@
+# Table of Contents
+
+[Overview](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#overview)
+[Project Description](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#project-description)
+[Solution Architecture Diagram](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#solution-architecture-diagram)
+[Wireframe Diagram](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#wireframe-diagram-draft)
+[User Stories](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#user-stories)
+[Use Cases](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#use-case)
+[Use Case Diagram](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#use-case-diagram)
+[Project Requirements Table](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#project-requirements-table)
+[Entity Relationship Diagram](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#entity-relationship-diagram)
+[UML Class Diagram](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#uml-class-diagram)
+
 # Overview
 The password manager web application is an application with the main purpose of securely storing the user's sensitive credentials.
 
