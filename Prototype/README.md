@@ -20,7 +20,7 @@ This page is the "Register" page of the web application. The user can access thi
 
 ## Log In Page
 
-This page is the "Log In" page of the web application. Only registered users can sign in to the web app. If the user is not registered and tries to sign in, they will receive a hyperlink that will redirect them to the "Register" page if they click the link. The "Back" button returns the user to the "Welcome" page.
+This page is the "Log In" page of the web application. Only registered users can sign in to the web app. If the user is not registered and tries to sign in, they will receive a hyperlink that will redirect them to the "Register" page if they click the link. The "Back" button returns the user to the "Welcome" page. Once the user successfully logs in, they will be redirected to their "Main" Page.
 
 ![LoginPageMockup](https://github.com/user-attachments/assets/d43f1140-84ed-430c-93aa-75e23c77c848)
 
@@ -32,7 +32,7 @@ This is the "Main" page of the web application. The "Main" page is what the user
 
 ## Add Password Page
 
-This is the "Add Password" page. Here the users can enter their credentials and submit them to be added to their password list.
+This is the "Add Password" page. Here the users can enter their credentials and submit them to be added to their password list. The "Back" button returns the user back to the "Main" Page.
 
 ![AddPasswordPageMockup](https://github.com/user-attachments/assets/92803da1-f542-450e-bf89-7612705a19f4)
 
@@ -40,7 +40,8 @@ This is the "Add Password" page. Here the users can enter their credentials and 
 
 This is the "Account Information" page of the web application. Here it shows the user's credentials for an account in their list. The "Edit" button will allow the user to edit the information of that specific account. The "View Password" button will decrypt the password and reveal it to the user. If the user clicks the "Edit" or the "View Password" button, a prompt will be shown to the user asking them for their Master PIN code. If the code is provided and is correct, the user may be able to edit and view their password. 
 
-![AddPasswordPageMockup](https://github.com/user-attachments/assets/fc14a6ba-02e1-4187-b560-f6000d6a0703)
+![ViewEditPageMockup](https://github.com/user-attachments/assets/21e7e2bc-6529-4250-a19c-40d59850a3f4)
+
 
 
 
