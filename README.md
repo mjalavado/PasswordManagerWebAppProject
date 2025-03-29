@@ -10,7 +10,7 @@
 [Project Requirements Table](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#project-requirements-table)  
 [Entity Relationship Diagram](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#entity-relationship-diagram)  
 [UML Class Diagram](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#uml-class-diagram)  
-[Data Access Layer](https://github.com/mjalavado/PasswordManagerWebAppProject/edit/main/README.md#data-access-layer)
+[Data Access Layer](https://github.com/mjalavado/PasswordManagerWebAppProject?tab=readme-ov-file#data-access-layer)
 
 # Overview
 The password manager web application is an application with the main purpose of securely storing the user's sensitive credentials.
